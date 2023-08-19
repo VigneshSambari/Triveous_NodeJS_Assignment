@@ -1,0 +1,4 @@
+{
+    "DBURL": "mongodb+srv://Vicky1234:Vicky1234@cluster0.zouakkd.mongodb.net/?retryWrites=true&w=majority",
+    "JwtKey":"IjoiNjM4ZjE1ZTZiOWNhYjkzNGJkNzUyNGQxIn0sImlhdCI"
+}
